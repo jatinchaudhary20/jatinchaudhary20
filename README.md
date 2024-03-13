@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
 -->
 <!-- intro/ about -->
-- 🏫 I’m currently studying **Electronics and Communication Engineering** at MNNIT Allahabad.
+* 🏫 I’m currently studying **Electronics and Communication Engineering** at MNNIT Allahabad.
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
-- 👨‍💻 All of my projects are available [here](https://jatinchaudhary20.github.io/MyProjects/)
+* 👨‍💻 All of my projects are available (https://github.com/jatinchaudhary20/jatinchaudhary20/projects?query=is%3Aopen)
 <!--
 - 👯 I’m looking to collaborate on []()
 
@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **5**
 -->
-- ✉️ Reach out to me at **chaudharyjatin205@gmail.com**
-- 😁 Fun fact : **I am an Anime Fan**
+* ✉️ Reach out to me at **chaudharyjatin205@gmail.com**
+* 😁 Fun fact : **I am an Anime Fan**
 <!--
 - 📄 Know about my experiences [9](9)
 -->
