@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- title -->
 <img align="right" src="https://komarev.com/ghpvc/?username=jatinchaudhary20&color=00BB00&label=Profile+Views&style=flat" alt="jatinchaudhary20" /> 
-<h1 align="center">Namaste <img src="https://giphy.com/clips/HrithikRoshan-bollywood-namaste-hrithik-roshan-0B0LlPOpZq8Tb6cFCl" width="30"> I'm Jatin!</h1>
+<h1 align="center">Namaste <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t4Zzg0MXY1azB5b2h0dWlza25yZW9hY2Q4aGR2ZnhsMXptajVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp0V5L6COAhv9VCT2S/giphy.gif" width="30"> I'm Jatin!</h1>
 <h3 align="center">A passionate student with interest in exploring the technology</h3>
 
 <!-- typing svg -->
