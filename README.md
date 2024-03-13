@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 -->
 <!-- intro/ about -->
 * 🏫 I’m currently studying **Electronics and Communication Engineering** at MNNIT Allahabad.
-<img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 * 👨‍💻 All of my projects are available (https://github.com/jatinchaudhary20/jatinchaudhary20/projects?query=is%3Aopen)
+* ✉️ Reach out to me at **chaudharyjatin205@gmail.com**
+* 😁 Fun fact : **I am an Anime Fan**
+
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRjYzdqa2o1c3czbDI3bWM2Y3RpdnM5anR2eDk1MzhnNHg1eWU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" width="290" />
 <!--
 - 👯 I’m looking to collaborate on []()
 
@@ -39,8 +42,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **5**
 -->
-* ✉️ Reach out to me at **chaudharyjatin205@gmail.com**
-* 😁 Fun fact : **I am an Anime Fan**
 <!--
 - 📄 Know about my experiences [9](9)
 -->
