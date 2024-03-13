@@ -57,8 +57,9 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/jatinchaudhary20-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jatin's Linkedin" height="30" width="30" /></a> 
 <a href="https://www.facebook.com/jatin.chaudhary.3386" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="jatin's fb" height="30" width="30" /></a>
 <a href="https://www.instagram.com/im._.jatinchaudhary/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jatin's insta" height="30" width="30" /></a>
-<a href="https://gitlab.com/jatinchaudhary20" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg" alt="jatin's github" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/jatinchaudhary20" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jatin's kaggle" height="30" width="30" /></a>
+<a href="https://leetcode.com/Matrix_20/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_white_no_text.svg" alt="jatin's leetcode" height="30" width="30" /></a>
+<a href="https://www.codingninjas.com/studio/profile/nerdy_version" target="blank"><img align="center" src="https://coursereport-s3-production.global.ssl.fastly.net/uploads/school/logo/1323/original/Coding_Ninjas_logo.jpeg" alt="jatin's codingninja" height="30" width="30" /></a>
 
 
 
