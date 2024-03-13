@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 -->
 <!-- intro/ about -->
 - 🏫 I’m currently studying **Electronics and Communication Engineering** at MNNIT Allahabad.
-- Check out my portfolio at [https://jatinchaudhary20.github.io/me/](https://jatinchaudhary20.github.io/me/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
-
 - 👨‍💻 All of my projects are available [here](https://jatinchaudhary20.github.io/MyProjects/)
 <!--
 - 👯 I’m looking to collaborate on []()
