@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sanskaromar&color=00BB00&label=Profile+Views&style=flat" alt="sanskaromar" /> </p>
 -->
 <!-- intro/ about -->
-- 🏫 I’m currently studying **Computer Science & Engineering** at MNNIT Allahabad.
+- 🏫 I’m currently studying **Electronics and Communication Engineering** at MNNIT Allahabad.
 - Check out my portfolio at [https://jatinchaudhary20.github.io/me/](https://jatinchaudhary20.github.io/me/)
 <img align="right" src="https://media.giphy.com/media/cKc0u9hyvZEOjD8V08/giphy.gif" width="100" />
 
