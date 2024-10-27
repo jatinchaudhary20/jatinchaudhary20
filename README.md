@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <h3 align="center">My Social Profiles :</h3>
 <div align="center" width="560px>
                
-<a href="https://www.linkedin.com/in/jatinchaudhary20-/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jatin's Linkedin" height="30" width="30" /></a> 
+<a href="https://www.linkedin.com/in/jatinchaudhary20/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="jatin's Linkedin" height="30" width="30" /></a> 
 <a href="https://www.facebook.com/jatin.chaudhary.3386" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" alt="jatin's fb" height="30" width="30" /></a>
 <a href="https://www.instagram.com/im._.jatinchaudhary/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="jatin's insta" height="30" width="30" /></a>
 <a href="https://www.kaggle.com/jatinchaudhary20" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="jatin's kaggle" height="30" width="30" /></a>
