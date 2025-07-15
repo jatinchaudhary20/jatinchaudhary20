@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- title -->
 <img align="right" src="https://komarev.com/ghpvc/?username=jatinchaudhary20&color=00BB00&label=Profile+Views&style=flat" alt="jatinchaudhary20" /> <br>
-<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t4Zzg0MXY1azB5b2h0dWlza25yZW9hY2Q4aGR2ZnhsMXptajVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp0V5L6COAhv9VCT2S/giphy.gif" width="190"> <br>I'm Jatin!</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2t4Zzg0MXY1azB5b2h0dWlza25yZW9hY2Q4aGR2ZnhsMXptajVyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp0V5L6COAhv9VCT2S/giphy.gif" width="250"> <br>I'm Jatin!</h1>
 <h3 align="center">A passionate student with interest in exploring the technology</h3>
 
 <!-- typing svg -->
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 * ✉️ Reach out to me at **chaudharyjatin205@gmail.com**
 * 😁 Fun fact : **I am an Anime Fan**
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRjYzdqa2o1c3czbDI3bWM2Y3RpdnM5anR2eDk1MzhnNHg1eWU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" width="290" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRjYzdqa2o1c3czbDI3bWM2Y3RpdnM5anR2eDk1MzhnNHg1eWU1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ztpMY1t5VYWlO/giphy.gif" width="270" />
 <!--
 - 👯 I’m looking to collaborate on []()
 
@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jatinchaudhary20&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="My Profile Stats" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jatinchaudhary20&hide_border=false&theme=tokyonight" alt="My Commit Stats" />
+
  
